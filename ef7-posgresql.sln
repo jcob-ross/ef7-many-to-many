@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ef7-many-to-many-test", "src\ef7-many-to-many-test\ef7-many-to-many-test.xproj", "{E81D9793-2964-43DB-A2BB-53F8026B95E4}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ef7-posgresql", "src\ef7-posgresql\ef7-posgresql.xproj", "{E81D9793-2964-43DB-A2BB-53F8026B95E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
